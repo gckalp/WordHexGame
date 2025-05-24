@@ -1,2 +1,3 @@
 # WordHexGame
 Word Guessing Game Project
+After running the code, enter a 5-letter guess on the screen that opens and press enter. If the letters turn green, it means the letter is in the right place. If it turns yellow, it means the letter is correct but in the wrong place. If there is no change, that letter is not in the word. If you cannot find the word correctly in the 6 guesses, the game is over. If you want to play again, you can press E, if you do not want to play, you can press H.
